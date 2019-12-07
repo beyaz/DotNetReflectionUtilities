@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <version>1.0.0</version>
+    <title>DotNetReflectionUtilities</title>
+    <!--*-->
+    <authors>Abdullah Beyaztaş</authors>
+    <owners>Abdullah Beyaztaş</owners>
+   
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>.net helper reflection methods</description>
+    <!--*-->
+    <releaseNotes>.</releaseNotes>
+    <copyright>Copyright ©  2019</copyright>
+    <tags>
+    </tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
