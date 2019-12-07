@@ -3,7 +3,7 @@ using System.Diagnostics.CodeAnalysis;
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace BOA.Common.Helpers
+namespace DotNetReflectionUtilities
 {
     public class A
     {

@@ -8,7 +8,7 @@ using System.Reflection;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace BOA.Common.Helpers
+namespace DotNetReflectionUtilities
 {
     /// <summary>
     ///     Utility methods for reflection operations.

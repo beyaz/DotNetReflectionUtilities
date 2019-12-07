@@ -9,7 +9,7 @@
    
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!--*-->
-    <description>.net helper reflection methods</description>
+    <description>.net reflection utility methods</description>
     <!--*-->
     <releaseNotes>.</releaseNotes>
     <copyright>Copyright ©  2019</copyright>

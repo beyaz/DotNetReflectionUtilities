@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace BOA.Common.Helpers
+namespace DotNetReflectionUtilities
 {
     /// <summary>
     ///     Utility methods for casting operations

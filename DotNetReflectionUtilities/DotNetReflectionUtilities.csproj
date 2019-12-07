@@ -49,6 +49,7 @@
     <Compile Include="RandomValue.cs" />
     <Compile Include="ReflectionHelper.cs" />
     <Compile Include="ReflectionHelper.ObjectToCSharpCodeExporter.cs" />
+    <Compile Include="ReflectionUtility.AssemblyResolver.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="package.nuspec" />
