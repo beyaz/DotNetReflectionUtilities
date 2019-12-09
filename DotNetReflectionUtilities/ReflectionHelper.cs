@@ -11,7 +11,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 namespace DotNetReflectionUtilities
 {
     /// <summary>
-    ///     Utility methods for reflection operations.
+    ///     Utility methods for reflection operations
     /// </summary>
     public static partial class ReflectionHelper
     {
